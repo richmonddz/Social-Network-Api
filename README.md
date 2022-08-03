@@ -16,7 +16,7 @@ An employee tracker powered by Node, Inquirer and MySql with the options to view
 2. Clone your newly forked repo to a directory on your computer through your terminal
 
 ```
-git clone https://github.com/richmonddz/Employee-Tracker.git
+git clone https://github.com/richmonddz/Social-Network-Api.git
 ```
 
 3. Install the node dependencies to the application by entering in the terminal:
