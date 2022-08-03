@@ -2,7 +2,7 @@
 
 ## Description
 
-An employee tracker powered by Node, Inquirer and MySql with the options to view, add and update employees, departments and roles.
+An API for a social network web application where users can share their thoughts that uses a NoSQL database to handle large amounts of unstructured data. React to friends’ thoughts, and create a friend list!
 
 ### Table of contents
 
