@@ -37,7 +37,6 @@ in your terminal.
 
 ![Untitled_ Aug 6, 2022 10_13 PM](https://user-images.githubusercontent.com/100399374/183277695-47f622af-4fa0-4cf8-a38d-41b8bf0f0f8f.gif)
 
-
-
 **_Link to Demo Video_**
 
+https://drive.google.com/file/d/12GXG0r9R529NhPdukE19oWhFcBUbSaxR/view?usp=sharing
