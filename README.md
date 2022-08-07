@@ -35,4 +35,10 @@ in your terminal.
 
 ## Video-Demo
 
+![Untitled_ Aug 6, 2022 10_13 PM](https://user-images.githubusercontent.com/100399374/183277445-4c2cb1a9-513e-4aa5-be9f-981b41fe9f22.gif)
+
+
 **_Link to Demo Video_**
+
+[
+](https://drive.google.com/file/d/12GXG0r9R529NhPdukE19oWhFcBUbSaxR/view?usp=sharing)
