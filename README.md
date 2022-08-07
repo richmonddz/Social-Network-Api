@@ -28,7 +28,7 @@ npm i
 4. After node dependancies are installed invoke the application by entering
 
 ```
-npm start
+npm run start
 ```
 
 in your terminal.
